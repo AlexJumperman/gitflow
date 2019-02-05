@@ -6,3 +6,5 @@ $features3 = 'features3';
 $features4 = 'features4';
 $fixRelease = 'fix';
 $hotfix = 1;
+
+$features5 = 'features5';
